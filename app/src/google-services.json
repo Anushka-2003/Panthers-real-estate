@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73964503166",
+    "project_id": "panthers-real-estate",
+    "storage_bucket": "panthers-real-estate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73964503166:android:08924c5fd48558e7f1d82f",
+        "android_client_info": {
+          "package_name": "com.panthers.realestate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73964503166-5vsi7bhoo13bvamrlfe141sgh07u0gd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtLZfq3-zhr4oUoKGQGke6AeH1Jj_n3s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73964503166-5vsi7bhoo13bvamrlfe141sgh07u0gd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
